@@ -1,4 +1,4 @@
-# band-name-generater
+# Promises and Async/Await
 
 ## Objective
 
